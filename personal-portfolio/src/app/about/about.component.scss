@@ -1,0 +1,37 @@
+.about {
+    margin-top: 20vh;
+    margin-left: 10vh;
+    justify-content: center;
+    padding-bottom: 10vh;
+    position: relative;
+}
+
+.small-letter {
+    letter-spacing: 0.2em;
+    font-family: 'Gill Sans';
+    color: #05a8e8;
+    margin-bottom: 0;
+}
+
+.name {
+    margin: 0;
+    font-size: 8vh;
+    font-family: name;
+}
+
+.role {
+    margin: 0;
+    font-size: 7vh;
+    font-family: role;
+    color: #362a4d;
+}
+
+.right-image {
+    position: absolute;
+    top: 0;
+    right: 10vh;
+    width: 50vh;
+    height: 50vh;
+    border-radius: 50%;
+    object-fit: cover;
+}
